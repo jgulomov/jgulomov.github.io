@@ -1,10 +1,10 @@
-@import 'libs/vars';
-@import 'libs/functions';
-@import 'libs/mixins';
-@import 'libs/vendor';
-@import 'libs/breakpoints';
-@import 'libs/grid';
-@import 'libs/flexgrid';
+@import 'vars';
+@import 'functions';
+@import 'mixins';
+@import 'vendor';
+@import 'breakpoints';
+@import 'grid';
+@import 'flexgrid';
 @import 'font-awesome.min.css';
 @import url('https://fonts.googleapis.com/css?family=Raleway:200,300,400,500,600');
 
@@ -42,25 +42,25 @@
 	@import 'base/typography';
 
 // Component.
-	@import 'components/inner';
-	@import 'components/button';
-	@import 'components/form';
-	@import 'components/list';
-	@import 'components/table';
-	@import 'components/highlights';
-	@import 'components/testimonials';
-	@import 'components/actions';
-	@import 'components/grid';
-	@import 'components/icon';
-	@import 'components/icons';
-	@import 'components/image';
-	@import 'components/wrapper';
+	@import 'inner';
+	@import 'button';
+	@import 'form';
+	@import 'list';
+	@import 'table';
+	@import 'highlights';
+	@import 'testimonials';
+	@import 'actions';
+	@import 'grid';
+	@import 'icon';
+	@import 'icons';
+	@import 'image';
+	@import 'wrapper';
 
 // Layout.
-	@import 'layout/banner';
-	@import 'layout/cta';
-	@import 'layout/footer';
-	@import 'layout/header';
-	@import 'layout/heading';
-	@import 'layout/main';
-	@import 'layout/menu';
+	@import 'banner';
+	@import 'cta';
+	@import 'footer';
+	@import 'header';
+	@import 'heading';
+	@import 'main';
+	@import 'menu';
